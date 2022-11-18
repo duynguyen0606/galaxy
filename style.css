@@ -1,0 +1,14 @@
+
+body{
+  overflow: hidden;
+  margin: 0;
+}
+#word{
+  font-family: Megrim, cursive;
+  font-size: 20vh;
+  position: absolute;
+  margin: 10;
+  /*bottom: 0;*/
+  color: red;
+  -webkit-text-stroke: 0.15vh red;
+}
